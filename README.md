@@ -7,7 +7,7 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4NG0L44&show_icons=true&count_private=true&theme=dark" alt="Estatísticas GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianoMafraJunior&show_icons=true&count_private=true&theme=dark" alt="Estatísticas GitHub">
 </div>
 
 ## Minhas Habilidades
