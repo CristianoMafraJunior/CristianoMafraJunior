@@ -1,10 +1,11 @@
 # Olá! Eu sou o Cristiano Mafra Junior
 
 - 🔭 Atualmente estudando desenvolvimento back-end
-- 🌱 Aprendendo Java e Python
-- 🌱 Explorando JavaScript, HTML e CSS
+- 🌱 Aprendendo Python
 - 📫 Contate-me por email: cristiano.mafracontato@gmail.com
 - 😄 Pronomes: ele/dele
+- 🧑 Cursando: Sistema de Informações na Unifebe 5ª fase
+- 💼 Trabalho: Atualmente trabalho Engenere com desenvolvedor Odoo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CristianoMafraJunior&show_icons=true&count_private=true&theme=dark" alt="Estatísticas GitHub">
