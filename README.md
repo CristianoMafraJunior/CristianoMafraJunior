@@ -1,17 +1,20 @@
-# Olá! Eu sou o Cristiano Mafra Junior
+<h1 align="center">Hi there! 👋 I'm Cristiano Mafra Junior</h1>
 
-- 🔭 Atualmente estudando desenvolvimento back-end
-- 🌱 Aprendendo Python
-- 📫 Contate-me por email: cristiano.mafracontato@gmail.com
-- 😄 Pronomes: ele/dele
-- 🧑 Cursando: Sistema de Informações na Unifebe 5ª fase
-- 💼 Trabalho: Atualmente trabalho Engenere com desenvolvedor Odoo
+<p align="center">
+  <img width='50%' align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" width="130">
+</p>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianoMafraJunior&show_icons=true&count_private=true&theme=dark" alt="Estatísticas GitHub">
-</div>
+- 🔭 Currently studying back-end development
+- 🌱 Learning Python
+- 📫 You can reach me via email: cristiano.mafracontato@gmail.com
+- 😄 Pronouns: he/him
+- 🧑 Currently pursuing: Bachelor's degree in Information Systems at Unifebe (5th phase)
+- 💼 Job: Currently working as an Engineer with Odoo development
+  
 
-## Minhas Habilidades
+
+## My Skills
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +24,7 @@
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Vamos conectar!
+## Let's Connect!
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.instagram.com/cristiano_junior03/" target="_blank">
