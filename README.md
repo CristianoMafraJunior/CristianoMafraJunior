@@ -9,7 +9,7 @@
 - 🌱 Learning Python
 - 📫 You can reach me via email: cristiano.mafracontato@gmail.com
 - 😄 Pronouns: he/him
-- 🧑 Currently pursuing: Bachelor's degree in Information Systems at Unifebe (5th phase)
+- 🧑 Currently pursuing: Bachelor's degree in Information Systems at Unifebe (6th phase)
 - 💼 Job: Currently working as an Engineer with Odoo development
   
 
