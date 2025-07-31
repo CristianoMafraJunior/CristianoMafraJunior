@@ -11,21 +11,29 @@
 ### 👨‍💻 About Me
 - 🔭 **Current Focus:** Back-end development  
 - 🌱 **Learning:** Python and enhancing my Odoo expertise  
-- 🎓 **Education:** Pursuing a Bachelor's in Information Systems at Unifebe (7th semester)  
-- 💼 **Job:** Working as an Engineer specializing in Odoo development  
+- 🎓 **Education:** Bachelor's in Information Systems @ Unifebe (8th semester)  
+- 💼 **Job:** Engineer specializing in Odoo development  
 - 📫 **Contact:** cristiano.mafracontato@gmail.com  
 - 😄 **Pronouns:** He/Him  
 
 ---
 
 ### 🛠 My Skills
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
+<p align="center">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianoMafraJunior&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMafraJunior&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
