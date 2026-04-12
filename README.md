@@ -4,7 +4,9 @@
   <img width='50%' align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" alt="Animação foguete">
 </p>
 
-<p align="center">Desenvolvedor Odoo e Python | Especialista em integrações ERP e localização fiscal brasileira.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Odoo+e+Python;Integra%C3%A7%C3%B5es+ERP+e+localiza%C3%A7%C3%A3o+fiscal+brasileira;Colaborador+OCA+%E2%80%A2+Open+source" alt="Frases em animação" />
+</p>
 
 <p align="center">
   <a href="https://cristianomafrajunior.com.br/" target="_blank">
@@ -59,6 +61,9 @@ Mais detalhes no [portfólio](https://cristianomafrajunior.com.br/).
   <img src="https://github-readme-stats.vercel.app/api?username=CristianoMafraJunior&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoMafraJunior&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180"/>
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CristianoMafraJunior&theme=radical&locale=pt_BR" alt="Sequência de contribuições no GitHub" height="180" />
+</p>
 
 ---
 
@@ -73,4 +78,15 @@ Mais detalhes no [portfólio](https://cristianomafrajunior.com.br/).
   <a href="https://www.linkedin.com/in/cristiano-mafra-junior-887aab285/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+---
+
+### Cobrinha das contribuições
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianoMafraJunior/CristianoMafraJunior/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristianoMafraJunior/CristianoMafraJunior/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação cobrinha do gráfico de contribuições no GitHub" src="https://raw.githubusercontent.com/CristianoMafraJunior/CristianoMafraJunior/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
