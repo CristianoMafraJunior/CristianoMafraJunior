@@ -1,43 +1,43 @@
-<h1 align="center">👋 Olá! Sou Cristiano Mafra Junior</h1>
+<h1 align="center">👋 Hi! I'm Cristiano Mafra Junior</h1>
 
 <p align="center">
-  <img width='50%' align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" alt="Animação foguete">
+  <img width='50%' align="center" src="https://www.excelptp.com/wp-content/themes/excelptp-cms-new/assets/images/accomodation/rocket.gif" alt="Rocket animation">
 </p>
 
-<p align="center"><a href="https://cristianomafrajunior.com.br/"><img src="https://img.shields.io/badge/Portfólio-cristianomafrajunior.com.br-0A66C2?style=for-the-badge" alt="Portfólio"></a></p>
+<p align="center"><a href="https://cristianomafrajunior.com.br/"><img src="https://img.shields.io/badge/Portfolio-cristianomafrajunior.com.br-0A66C2?style=for-the-badge" alt="Portfolio"></a></p>
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🔭 **Foco:** Desenvolvimento back-end com **Odoo** (3+ anos): módulos customizados, integrações fiscais e governamentais e localização brasileira (NF-e, CT-e, NFSe, PNCP, CNAB, entre outras).
-- 🌱 **Comunidade:** Colaborador ativo na **OCA** (Odoo Community Association). Destaques no ranking de contribuidores: **3º lugar** (janeiro/2026) e **29º lugar** no ranking anual 2025.
-- 🛠 **Open source:** Co-desenvolvedor da biblioteca **BrazilFiscalReport**, adotada em módulos da OCA no Brasil.
-- 💼 **Trabalho:** Desenvolvedor Odoo na **Escodoo** (jul. 2025 – presente). Anteriormente **Engenere** (dez. 2023 – jul. 2025).
-- 🎓 **Formação:** Bacharelado em Sistemas de Informação, **UNIFEBE** (2022 – 2026, em andamento).
-- 📫 **Contato:** cristiano.mafracontato@gmail.com
-- 😄 **Pronomes:** Ele/dele
+### 👨‍💻 About me
+- 🔭 **Focus:** Back-end development with **Odoo** (3+ years): custom modules, fiscal and government integrations, and Brazilian localization (NF-e, CT-e, NFSe, PNCP, CNAB, and more).
+- 🌱 **Community:** Active contributor to the **OCA** (Odoo Community Association). Contributor ranking highlights: **3rd place** (January 2026) and **29th place** in the 2025 annual ranking.
+- 🛠 **Open source:** Co-developer of the **BrazilFiscalReport** library, adopted in OCA modules in Brazil.
+- 💼 **Work:** Odoo developer at **Escodoo** (Jul. 2025 – present). Previously **Engenere** (Dec. 2023 – Jul. 2025).
+- 🎓 **Education:** Bachelor’s in Information Systems, **UNIFEBE** (2022 – 2026, in progress).
+- 📫 **Contact:** cristiano.mafracontato@gmail.com
+- 😄 **Pronouns:** He/him
 
 ---
 
-### 💼 Projetos em destaque
-Mais detalhes no [portfólio](https://cristianomafrajunior.com.br/).
+### 💼 Featured projects
+More details on my [portfolio](https://cristianomafrajunior.com.br/).
 
-**Integração Odoo ↔ Mautic** — Desenvolvedor responsável · Escodoo  
-- Módulo Odoo para sincronização bidirecional de Contatos e Empresas com **Mautic** via API REST.  
-- Oportunidades no Odoo a partir de submissões de formulários Mautic, com campos personalizados.  
-- Jobs agendáveis, **OAuth2**, sincronização incremental, deduplicação por e-mail e logs por execução.
+**Odoo ↔ Mautic integration** — Lead developer · Escodoo  
+- Odoo module for bidirectional sync of Contacts and Companies with **Mautic** via REST API.  
+- Odoo opportunities from Mautic form submissions, with custom fields.  
+- Schedulable jobs, **OAuth2**, incremental sync, email-based deduplication, and per-run logs.
 
-**Reforma tributária (IBS/CBS)** — Barueri e Paulistana  
-- Adequações nos módulos OCA **l10n_br_nfse_barueri** e **l10n_br_nfse_paulistana** para as novas regras de NFSe.  
-- Atuação da especificação técnica ao alinhamento com o financeiro dos clientes.
+**Tax reform (IBS/CBS)** — Barueri and Paulistana  
+- Updates to OCA modules **l10n_br_nfse_barueri** and **l10n_br_nfse_paulistana** for new NFSe rules.  
+- From technical specification to alignment with clients’ finance teams.
 
-**BrazilFiscalReport** — Co-desenvolvedor · OCA / comunidade  
-- Biblioteca open source para documentos fiscais auxiliares (ex.: DANFE, DACTE, DAMDFE), utilizada por módulos como **l10n_br_cte** e **l10n_br_mdfe**.  
-- Repositório: [Engenere/BrazilFiscalReport](https://github.com/Engenere/BrazilFiscalReport)
+**BrazilFiscalReport** — Co-developer · OCA / community  
+- Open source library for auxiliary fiscal documents (e.g. DANFE, DACTE, DAMDFE), used by modules such as **l10n_br_cte** and **l10n_br_mdfe**.  
+- Repository: [Engenere/BrazilFiscalReport](https://github.com/Engenere/BrazilFiscalReport)
 
 ---
 
-### 🛠 Minhas habilidades
+### 🛠 Skills
 <p align="center">
   <img alt="Odoo" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@11.0.0/icons/odoo.svg">
   <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -48,23 +48,14 @@ Mais detalhes no [portfólio](https://cristianomafrajunior.com.br/).
 
 ---
 
-### 📈 Estatísticas no GitHub
+### 📈 GitHub stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CristianoMafraJunior&theme=radical&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=CristianoMafraJunior&theme=radical&locale=en" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-### 📲 Vamos nos conectar
-<p align="center"><a href="https://cristianomafrajunior.com.br/"><img src="https://img.shields.io/badge/Portfólio-cristianomafrajunior.com.br-0A66C2?style=for-the-badge" alt="Portfólio"></a><a href="https://www.instagram.com/cristianomafra_junior/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.linkedin.com/in/cristiano-mafra-junior-887aab285/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
+### 📲 Let's connect
+<p align="center"><a href="https://cristianomafrajunior.com.br/"><img src="https://img.shields.io/badge/Portfolio-cristianomafrajunior.com.br-0A66C2?style=for-the-badge" alt="Portfolio"></a><a href="https://www.instagram.com/cristianomafra_junior/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a><a href="https://www.linkedin.com/in/cristiano-mafra-junior-887aab285/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 ---
-
-### Cobrinha das contribuições
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianoMafraJunior/CristianoMafraJunior/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristianoMafraJunior/CristianoMafraJunior/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação cobrinha do gráfico de contribuições no GitHub" src="https://raw.githubusercontent.com/CristianoMafraJunior/CristianoMafraJunior/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
